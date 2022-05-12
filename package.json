@@ -1,0 +1,12 @@
+{
+  "name": "sdk-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "dependencies": {
+    "algosdk": "^1.15.0"
+  }
+}
